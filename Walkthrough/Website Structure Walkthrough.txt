@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <meta charset="UTF-8" />
+    <meta name="description" content="Information about Web Design and Mobile Game Design" />
+    <meta name="keywords" content="Java, Javascript, CSS, HTML, Android, Mobile,
+      Responsive, design" />
+    <meta name="author" content="Gabriel Walters" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>RedBeard Productions</title>
+
+
+
+
+  </head>
+  <body>
+    <header>
+      <h1>My Website</h1>
+      <nav>
+      </nav>
+
+    </header>
+
+    <aside></aside>
+
+    <main>
+
+      <article>
+
+        <section>
+          <h2></h2>
+          <p></p>
+        </section>
+
+        <section>
+        </section>
+
+      </article>
+
+      <article>
+        <section></section>
+        <section></section>
+      </article>
+
+      <article>
+        <p></p>
+      </article>
+
+    </main>
+    <footer></footer>
+
+
+  </body>
+</html>

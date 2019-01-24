@@ -1,0 +1,45 @@
+HTML Notes
+
+HTML stands for HyperText Markup Language because it is a
+language built using links and tags for markup.
+
+HTML has elements used to describe what they contain
+An element  is made up of up to two tags - a beginning and ending tags
+Elements act as containers holding the stuff inside
+
+The head element gives information about the website
+The body element is everything that is displayed for the website
+
+HTML can be broken into two groups - structural and semantic
+structural tags could be:
+
+Normal Tags (Have both a beginning and ending tag):
+heading - the main heading for a webpage,
+h1 - Is used to identify a heading of the highest importance,
+h6 - Is used to identify a heading of the lowest importance,
+b - is used to identify bold words,
+p - is used to identify paragraphs,
+i - is used to identify italicized words,
+sup - is used to identify superscript words or numbers ,
+sub - is used to identify subscript words or numbers,
+
+Empty Tags (Written as <"character" /> with no end tag):
+ br - is used to create a line break ,
+ hr - is used to create a horizontal rule
+
+ Semantic - provide more information, but are not intended to
+ affect the structure of the webpage:
+
+ Normal Tags (Have both a beginning and ending tag):
+
+ Strong - used to identify words that are strongly expressed
+ em - used to identify words that are emphasized,
+ blockquote - used to identify long quotes,
+ q - used to identify shorter quotes,
+ abbr - used to identify an abbreviation and uses the "title" attribute
+ for stating the abbreviation,
+ cite - for identifying a book title or resource that is being referenced
+ dfn - used for identifying the first time that a term is introduced,
+ ins - used for identifying when something is inserted,
+ del - used for identifying when something is deleted,
+ s - used for identifying information that is deleted or no longer accurate,
